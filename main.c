@@ -23,5 +23,4 @@ int main() {
     print_stack(&P1);
 	clear_Stack(&P1);
 
-
 }
